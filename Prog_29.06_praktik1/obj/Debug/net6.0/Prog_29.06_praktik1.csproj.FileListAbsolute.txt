@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\Prog_29.06_praktik1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\Prog_29.06_praktik1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\Prog_29.06_praktik1.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\Prog_29.06_praktik1.AssemblyInfo.cs
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\Prog_29.06_praktik1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\bin\Debug\net6.0\Prog_29.06_praktik1.exe
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\bin\Debug\net6.0\Prog_29.06_praktik1.deps.json
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\bin\Debug\net6.0\Prog_29.06_praktik1.runtimeconfig.json
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\bin\Debug\net6.0\Prog_29.06_praktik1.dll
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\bin\Debug\net6.0\Prog_29.06_praktik1.pdb
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\Prog_29.06_praktik1.dll
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\refint\Prog_29.06_praktik1.dll
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\Prog_29.06_praktik1.pdb
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\Prog_29.06_praktik1.genruntimeconfig.cache
+C:\Users\1\Desktop\Prog\Prog_29.06_praktik1\obj\Debug\net6.0\ref\Prog_29.06_praktik1.dll
