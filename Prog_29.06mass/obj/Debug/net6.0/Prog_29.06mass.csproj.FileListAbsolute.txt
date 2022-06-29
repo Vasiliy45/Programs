@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\Prog_29.06mass.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\Prog_29.06mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\Prog_29.06mass.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\Prog_29.06mass.AssemblyInfo.cs
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\Prog_29.06mass.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Prog\Prog_29.06mass\bin\Debug\net6.0\Prog_29.06mass.exe
+C:\Users\1\Desktop\Prog\Prog_29.06mass\bin\Debug\net6.0\Prog_29.06mass.deps.json
+C:\Users\1\Desktop\Prog\Prog_29.06mass\bin\Debug\net6.0\Prog_29.06mass.runtimeconfig.json
+C:\Users\1\Desktop\Prog\Prog_29.06mass\bin\Debug\net6.0\Prog_29.06mass.dll
+C:\Users\1\Desktop\Prog\Prog_29.06mass\bin\Debug\net6.0\Prog_29.06mass.pdb
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\Prog_29.06mass.dll
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\refint\Prog_29.06mass.dll
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\Prog_29.06mass.pdb
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\Prog_29.06mass.genruntimeconfig.cache
+C:\Users\1\Desktop\Prog\Prog_29.06mass\obj\Debug\net6.0\ref\Prog_29.06mass.dll
