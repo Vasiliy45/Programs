@@ -1,4 +1,6 @@
-﻿int [] calkule (int num)
+﻿Console.WriteLine ("Введите число N");
+int n = Convert.ToInt32(Console.ReadLine());
+int [] calkule (int num)
 {
   int[] A =new int [num];
   int i=1;
@@ -9,4 +11,4 @@
     return A;
    
 }
-int [] resault = calkule(3);
+int [] resault = calkule(n);
